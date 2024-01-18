@@ -1,4 +1,4 @@
-# Windows-WiFi-Extractor
+# Windows-WiFi-Password-Stealer
 Extract Windows Wi-Fi Passwords 
 
 # Install
