@@ -1,5 +1,5 @@
 # Windows-WiFi-Password-Stealer
-Extract Windows Wi-Fi Passwords 
+Extract Windows Wi-Fi Passwords and save to text file
 
 # Install
 Before running, install the required modules:
@@ -15,7 +15,7 @@ python stealer.py
 ```
 
 # Making an executable
-If you want to be a fancy pants, you can convert this to an exe :)
+If you want an exe file, you can convert this to an exe by using the following command
 
 ```
 pyinstaller --onefile stealer.py
